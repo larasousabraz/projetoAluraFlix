@@ -4,7 +4,7 @@
          url("caminho/para/o/arquivo/Chalkduster.woff") format("woff"),
          url("caminho/para/o/arquivo/Chalkduster.ttf") format("truetype");
 
-
+}
 body {
     color: white;
     background: black;
