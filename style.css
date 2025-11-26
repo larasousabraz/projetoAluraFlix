@@ -1,3 +1,10 @@
+@font-face {
+    font-family: "ChalkdusterCustom";
+    src: url("caminho/para/o/arquivo/Chalkduster.woff2") format("woff2"),
+         url("caminho/para/o/arquivo/Chalkduster.woff") format("woff"),
+         url("caminho/para/o/arquivo/Chalkduster.ttf") format("truetype");
+
+
 body {
     color: white;
     background: black;
@@ -30,7 +37,7 @@ section {
 
 .chamada-texto {
     margin-right: 5%;
-    font-family: "Chalkduster", fantasy;
+    font-family: "ChalkdusterCustom", fantasy;
 }
 
 h1 {
