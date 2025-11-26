@@ -68,6 +68,12 @@ img{
     opacity: 1.0;
     border: 3px solid rgb(130, 99, 201);
 }
+.chamada-texto img:hover {
+     opacity: 1.0;
+    border: 3px solid rgb(130, 99, 201);
+}
+
+
 .categoria{
     padding-left: 20px;
     padding-right: 20px;
